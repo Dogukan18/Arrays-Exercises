@@ -6,7 +6,7 @@ namespace Diziler2
     {
         static void Main(string[] args)
         {
-            /*  string [] isimler = { "Ali", "Veli", "Doğukan", "Mehmet", "Ahmet", "Oğuzhan" };
+            /*  string [] isimler = { "Ali", "Veli", "Doğukan", "Mehmet", "Ahmet" };
                Console.WriteLine(isimler[3]);
                Console.ReadKey(); */
 
